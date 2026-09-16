@@ -1,0 +1,7 @@
+{
+  "name": "KinetiCraft - Creative Web & Interactive UI Studio",
+  "description": "Interactive HTML5, CSS3 and JavaScript creative studio showcasing modern UI effects, responsive tools and live project estimator",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
