@@ -7,9 +7,6 @@
 [![Upwork Ready](https://img.shields.io/badge/Upwork-Verified_Showcase-black?style=flat&logo=upwork)](https://upwork.com)
 
 A minimalist monochrome creative web studio and interactive UI engineering workbench. Built with pure **HTML5, CSS3, JavaScript/TypeScript, and React 19**, focused on hardware-accelerated 60 FPS spatial physics, real-time backdrop blur refraction, responsive viewport simulation, and client task cost estimation.
-
-Engineered by **Ivan Huban** — Creative UI & Frontend Engineer.
-
 ---
 
 ## 🎯 Core Engineering Modules
@@ -94,7 +91,7 @@ The production-ready static bundle will be generated in `/dist`.
 
 ---
 
-## 📬 Contact & Upwork Hire
+##  Contact & Upwork Hire
 
 - **Freelancer**: Ivan Huban
 - **Specialization**: Creative Frontend & Responsive Web Engineering
