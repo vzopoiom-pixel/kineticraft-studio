@@ -1,7 +1,7 @@
 # ⚡ KinetiCraft Studio — Creative Frontend & Interactive UI Engine
 
 <p align="center">
-  <a href="./Kineticraft-studio-video.mp4">
+  <a href="https://github.com/vzopoiom-pixel/kineticraft-studio/blob/main/Kineticraft-studio-video.mp4">
     <img src="https://img.shields.io/badge/▶%20Watch%20Live%20Demo%20Video-51s%20Walkthrough-2563eb?style=for-the-badge&logo=youtube&logoColor=white" alt="Watch Live Demo Video" />
   </a>
 </p>
