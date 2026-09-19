@@ -1,11 +1,5 @@
 # ⚡ KinetiCraft Studio — Creative Frontend & Interactive UI Engine
 
-<p align="center">
-  <a href="https://github.com/vzopoiom-pixel/kineticraft-studio/blob/main/Kineticraft-studio-video.mp4">
-    <img src="https://img.shields.io/badge/▶%20Watch%20Live%20Demo%20Video-51s%20Walkthrough-2563eb?style=for-the-badge&logo=youtube&logoColor=white" alt="Watch Live Demo Video" />
-  </a>
-</p>
-
 [![React](https://img.shields.io/badge/React-19.0-black?style=flat&logo=react)](https://react.dev/) [![TypeScript](https://img.shields.io/badge/TypeScript-5.0-black?style=flat&logo=typescript)](https://www.typescriptlang.org/) [![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-v4-black?style=flat&logo=tailwindcss)](https://tailwindcss.com/) [![Web Audio API](https://img.shields.io/badge/Web_Audio_API-Built--in-black?style=flat)](https://developer.mozilla.org/en-US/docs/Web/API/Web_Audio_API) [![Upwork Ready](https://img.shields.io/badge/Upwork-Verified_Showcase-black?style=flat&logo=upwork)](https://upwork.com)
 
 A minimalist monochrome creative web studio and interactive UI engineering workbench. Built with pure **HTML5, CSS3, JavaScript/TypeScript, and React 19**, focused on hardware-accelerated 60 FPS spatial physics, real-time backdrop blur refraction, responsive viewport simulation, and client task cost estimation.
