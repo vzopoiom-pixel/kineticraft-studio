@@ -1,5 +1,8 @@
 # ⚡ KinetiCraft Studio — Creative Frontend & Interactive UI Engine
 
+<div align="center">
+  <video src="Kineticraft-studio-video.mp4" width="100%" controls autoplay loop muted></video>
+</div>
 [![React](https://img.shields.io/badge/React-19.0-black?style=flat&logo=react)](https://react.dev/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.0-black?style=flat&logo=typescript)](https://www.typescriptlang.org/)
 [![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-v4-black?style=flat&logo=tailwindcss)](https://tailwindcss.com/)
