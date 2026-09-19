@@ -1,4 +1,7 @@
 # ⚡ KinetiCraft Studio — Creative Frontend & Interactive UI Engine
+
+
+
 <div align="center">
   <video src="Kineticraft-studio-video.mp4" width="100%" controls autoplay loop muted></video>
 </div>
