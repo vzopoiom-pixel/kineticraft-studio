@@ -1,18 +1,15 @@
 # ⚡ KinetiCraft Studio — Creative Frontend & Interactive UI Engine
 
+<p align="center">
+  <a href="./Kineticraft-studio-video.mp4">
+    <img src="https://img.shields.io/badge/▶%20Watch%20Live%20Demo%20Video-51s%20Walkthrough-2563eb?style=for-the-badge&logo=youtube&logoColor=white" alt="Watch Live Demo Video" />
+  </a>
+</p>
 
-
-<div align="center">
-  <video src="Kineticraft-studio-video.mp4" width="100%" controls autoplay loop muted></video>
-</div>
-
-[![React](https://img.shields.io/badge/React-19.0-black?style=flat&logo=react)](https://react.dev/)
-[![TypeScript](https://img.shields.io/badge/TypeScript-5.0-black?style=flat&logo=typescript)](https://www.typescriptlang.org/)
-[![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-v4-black?style=flat&logo=tailwindcss)](https://tailwindcss.com/)
-[![Web Audio API](https://img.shields.io/badge/Web_Audio_API-Built--in-black?style=flat)](https://developer.mozilla.org/en-US/docs/Web/API/Web_Audio_API)
-[![Upwork Ready](https://img.shields.io/badge/Upwork-Verified_Showcase-black?style=flat&logo=upwork)](https://upwork.com)
+[![React](https://img.shields.io/badge/React-19.0-black?style=flat&logo=react)](https://react.dev/) [![TypeScript](https://img.shields.io/badge/TypeScript-5.0-black?style=flat&logo=typescript)](https://www.typescriptlang.org/) [![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-v4-black?style=flat&logo=tailwindcss)](https://tailwindcss.com/) [![Web Audio API](https://img.shields.io/badge/Web_Audio_API-Built--in-black?style=flat)](https://developer.mozilla.org/en-US/docs/Web/API/Web_Audio_API) [![Upwork Ready](https://img.shields.io/badge/Upwork-Verified_Showcase-black?style=flat&logo=upwork)](https://upwork.com)
 
 A minimalist monochrome creative web studio and interactive UI engineering workbench. Built with pure **HTML5, CSS3, JavaScript/TypeScript, and React 19**, focused on hardware-accelerated 60 FPS spatial physics, real-time backdrop blur refraction, responsive viewport simulation, and client task cost estimation.
+
 ---
 
 ## 🎯 Core Engineering Modules
@@ -37,70 +34,31 @@ A minimalist monochrome creative web studio and interactive UI engineering workb
 
 5. **💼 Upwork Task & Fixed-Price Estimator**
    - Live scope selector for CSS alignment fixes ($25), responsive adaptation ($35), UI physics ($45), and DOM scripting ($40).
-   - 24-hour express turnaround calculation.
-   - Generates and copies clean markdown project briefs directly to the clipboard for Upwork proposals.
+   - Instant project scope breakdown generator.
 
 ---
 
-## 🚀 Quick Start Guide
+## 🛠️ Technology Stack
 
-### 📋 Prerequisites
-- **Node.js**: v18.0+ ([Download Node.js](https://nodejs.org/))
-- **Git**: ([Download Git](https://git-scm.com/))
+- **Framework:** React 19 + Vite
+- **Language:** TypeScript (Strict Mode)
+- **Styling:** Modern Tailwind CSS
+- **Audio:** Web Audio API (Synthesized Oscillators)
+- **Architecture:** Zero-dependency UI primitives for peak 60 FPS performance
 
 ---
 
-### 1️⃣ Clone the Repository
+## 🚀 Quick Start
 
 ```bash
+# Clone the repository
 git clone https://github.com/vzopoiom-pixel/kineticraft-studio.git
-```
 
-### 2️⃣ Navigate into Directory
-
-```bash
+# Navigate to project directory
 cd kineticraft-studio
-```
 
-### 3️⃣ Install Dependencies
-
-```bash
+# Install dependencies
 npm install
-```
 
-### 4️⃣ Launch Development Server
-
-```bash
+# Start local development server
 npm run dev
-```
-
-Open your browser at:
-👉 **`http://localhost:3000`**
-
-### 5️⃣ Build for Production
-
-```bash
-npm run build
-```
-
-The production-ready static bundle will be generated in `/dist`.
-
----
-
-## 💻 Tech Stack Architecture
-
-- **Core Framework**: React 19 (Hooks, TypeScript)
-- **Styling**: Tailwind CSS, CSS Custom Properties, JetBrains Mono & Plus Jakarta Sans
-- **Vector Icons**: Lucide React
-- **Audio**: Web Audio API (Synthesized Oscillators)
-- **Bundler**: Vite 6
-
----
-
-##  Contact & Upwork Hire
-
-- **Freelancer**: Ivan Huban
-- **Specialization**: Creative Frontend & Responsive Web Engineering
-- **Direct Email**: `ivanjkdaolw@gmail.com`
-- **Availability**: Open for Fixed-Price ($25–$100) & Hourly Upwork Milestones
-- **Turnaround**: 24h Express Available
