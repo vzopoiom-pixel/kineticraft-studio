@@ -1,75 +1,58 @@
-# Aura Pulse Studio ⚡
+# ⚡ KinetiCraft Studio — Creative Frontend & Interactive UI Engine
 
-Aura Pulse Studio is a cutting-edge, high-performance web engineering and digital architecture workbench. Built on the absolute frontier of modern frontend and backend technologies, it demonstrates advanced capabilities in building fast, scalable, dynamic, and fluid digital systems with zero compromise on performance.
+[![React](https://img.shields.io/badge/React-19.0-black?style=flat&logo=react)](https://react.dev/) [![TypeScript](https://img.shields.io/badge/TypeScript-5.0-black?style=flat&logo=typescript)](https://www.typescriptlang.org/) [![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-v4-black?style=flat&logo=tailwindcss)](https://tailwindcss.com/) [![Web Audio API](https://img.shields.io/badge/Web_Audio_API-Built--in-black?style=flat)](https://developer.mozilla.org/en-US/docs/Web/API/Web_Audio_API) [![Upwork Ready](https://img.shields.io/badge/Upwork-Verified_Showcase-black?style=flat&logo=upwork)](https://upwork.com)
 
----
-
-## ⚡ Core Tech Stack & Infrastructure
-
-- **Frontend Architecture:** React 19 (Hooks, Concurrent Rendering), Vite 6, TypeScript, Tailwind CSS
-- **Backend Architecture:** Python 3.12, FastAPI, Asyncio (Asynchronous I/O Operations)
-- **High-Performance Engines:** Web Audio API (Procedural Audio Synthesis), Canvas API (60 FPS Micro-Physics)
-- **Advanced Engineering:** Data Structures, Modular System Design, Real-time DOM Scripting
+A minimalist monochrome creative web studio and interactive UI engineering workbench. Built with pure **HTML5, CSS3, JavaScript/TypeScript, and React 19**, focused on hardware-accelerated 60 FPS spatial physics, real-time backdrop blur refraction, responsive viewport simulation, and client task cost estimation.
 
 ---
 
-## 🔬 Specialized Engineering Modules
+## 🎯 Core Engineering Modules
 
-### ⚙️ Software Engineering & System Architecture
-Architecting ultra-fast web systems with clean, modular, and enterprise-grade directory structures. Focus on non-blocking asynchronous architectures, heavy optimization, and strict type safety using TypeScript and Python 3.12 type hinting.
+1. **📐 Depth & Optical Transmission Lab (Glassmorphism Studio)**
+   - Real-time backdrop filter engine (`blur()`, surface opacity, dynamic border weight).
+   - One-click copy for clean CSS and Tailwind utility classes.
+   - High-contrast geometric containment testing.
 
-### 🌐 Advanced Automation & Systems Integration
-Developing custom automation protocols, background job workers, robust error-handling layers, and real-time communication bridges between complex backend microservices and modern frontend applications.
+2. **🕹️ 3D Tilt Matrix & Magnetic Physics**
+   - Cursor-driven spatial rotation matrix with zero third-party animation bloat.
+   - Dynamic specular glare illumination mapping `clientX/clientY` vectors.
+   - Elastic spring-physics magnetic button tracking cursor proximity.
 
-### 🎨 High-Fidelity Fluid Design & Mechanics
-- **Procedural SFX Engine (Web Audio API):** Synthesized procedural UI haptic feedback clicks and soundscapes completely via native browser oscillators—eliminating heavy external audio asset network requests.
-- **Interactive Canvas Micro-Physics:** Custom micro-particle systems running at solid 60 FPS using pure vector physics, bounding boxes, and optimized requestAnimationFrame hooks.
-- **Modern Fluid Architecture:** Premium dark futuristic layout heavily optimized for performance, seamless viewports, high responsiveness, and micro-interactions.
+3. **🔊 Pure Web Audio API Sound Engine**
+   - Synthesized procedural UI haptic clicks (320Hz–640Hz) without external MP3 asset network requests.
+   - Global sound toggle state.
 
----
+4. **📱 Multi-Device Viewport Inspector**
+   - Real-time simulation across **Mobile (375px)**, **Tablet (768px)**, and **Desktop (Fluid 100%)**.
+   - Zero horizontal overflow guarantee, 48px+ touch target enforcement, and fluid clamp typography.
 
-## 🛠 Project Structure
-
-```text
-aura-pulse-studio/
-├── public/              # Static optimized assets
-├── src/
-│   ├── components/      # High-performance modular UI elements
-│   ├── engines/         # Web Audio API and Canvas micro-physics handlers
-│   ├── styles/          # Tailwind CSS global fluid system
-│   ├── App.tsx          # Core layout and state orchestration
-│   └── main.tsx         # React 19 concurrent bootstrapper
-├── index.html           # Main HTML5 entry point
-├── vite.config.ts       # Vite 6 engineering optimization config
-└── tsconfig.json        # Strict TypeScript compilation rules
-```
+5. **💼 Upwork Task & Fixed-Price Estimator**
+   - Live scope selector for CSS alignment fixes ($25), responsive adaptation ($35), UI physics ($45), and DOM scripting ($40).
+   - Instant project scope breakdown generator.
 
 ---
 
-## 🚀 Local Deployment & Development
+## 🛠️ Technology Stack
 
-Clone the repository:
+- **Framework:** React 19 + Vite
+- **Language:** TypeScript (Strict Mode)
+- **Styling:** Modern Tailwind CSS
+- **Audio:** Web Audio API (Synthesized Oscillators)
+- **Architecture:** Zero-dependency UI primitives for peak 60 FPS performance
+
+---
+
+## 🚀 Quick Start
+
 ```bash
-git clone https://github.com
-cd aura-pulse-studio
-```
+# Clone the repository
+git clone https://github.com/vzopoiom-pixel/kineticraft-studio.git
 
-Install production dependencies:
-```bash
+# Navigate to project directory
+cd kineticraft-studio
+
+# Install dependencies
 npm install
-```
 
-Launch high-performance Vite 6 development server:
-```bash
+# Start local development server
 npm run dev
-```
-
----
-
-## 💼 Huban Digital Agency
-
-- **Freelancer:** Ivan Huban
-- **Direct Email:** ivanjkdaolw@gmail.com
-- **Turnaround:** 24h Express Available
-- **Availability:** Open for High-End Web Engineering Contracts
-
